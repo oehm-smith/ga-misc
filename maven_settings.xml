@@ -142,7 +142,7 @@ under the License.
     <server>
       <id>nexus.gadevs</id>
       <username>bsmith</username>
-      <password>gumby123</password>
+      <password>xxx</password>
     </server>
 
     <!-- Another sample, using keys to authenticate.
